@@ -6,6 +6,9 @@
 
 Ce projet vise à développer un tableau de bord interactif pour visualiser et analyser les données météorologiques de la France. L'application met en évidence les tendances de la température, la saisonnalité et les anomalies, en utilisant des données fournies par Météo-France.
 
+
+![Description de l'image](https://github.com/Muthuvel15/Projet-IA-Prediction_meteo_France/blob/main/image/1edf1440dea40f25.png)
+
 ## Données
 
 Les données utilisées dans ce projet proviennent des sources suivantes :
@@ -16,6 +19,9 @@ Les données utilisées dans ce projet proviennent des sources suivantes :
 ## WebApp
 
 La WebApp est construite avec Streamlit et fournit une interface utilisateur pour interagir avec les visualisations des données.
+
+
+![Description de l'image](https://github.com/Muthuvel15/Projet-IA-Prediction_meteo_France/blob/main/image/2024-03-29_17h23_43.png)
 
 ## Fonctionnalités
 
@@ -30,8 +36,21 @@ La WebApp est construite avec Streamlit et fournit une interface utilisateur pou
 - Pandas pour la manipulation des données.
 - Statsmodels pour les analyses statistiques.
 
-## Installation
+## Structure des Dossiers
 
-Pour installer et exécuter l'application, suivez ces étapes :
+- `index.py` : Script principal de la WebApp.
+- `data/` : Dossier contenant les fichiers de données.
+- `notebooks/` : Jupyter Notebooks avec les scripts d'analyse et d'entraînement des modèles.
+- `requirements.txt` : Liste des dépendances Python.
 
-1. Clonez le dépôt GitHub :
+## Teams
+
+- Muthuvel SAVOUNDIRAPANDIANE
+- Nabila EL ABDALI
+- Jihene BEN AMEUR
+- Claudia TIMOCI
+
+## Remerciements
+
+Merci à Météo-France pour la mise à disposition des données utilisées dans ce projet.
+
