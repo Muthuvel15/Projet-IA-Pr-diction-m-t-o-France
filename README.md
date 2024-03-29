@@ -1,5 +1,7 @@
 # Dashboard Météorologique de la France
 
+![Description de l'image](https://github.com/Muthuvel15/Projet-IA-Prediction_meteo_France/blob/main/image/OIG4.jpeg)
+
 ## Objectif
 
 Ce projet vise à développer un tableau de bord interactif pour visualiser et analyser les données météorologiques de la France. L'application met en évidence les tendances de la température, la saisonnalité et les anomalies, en utilisant des données fournies par Météo-France.
